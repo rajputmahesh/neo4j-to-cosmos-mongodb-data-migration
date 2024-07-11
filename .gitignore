@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Restore.CosmosDB.API/.vs
+/Restore.CosmosDB.API/Neo4J.Backup.Project/bin/Debug/net6.0
+/Restore.CosmosDB.API/Neo4J.Backup.Project/obj
+/Restore.CosmosDB.API/Restore.CosmosDB.API/bin/Debug/net6.0
+/Restore.CosmosDB.API/Restore.CosmosDB.API/obj

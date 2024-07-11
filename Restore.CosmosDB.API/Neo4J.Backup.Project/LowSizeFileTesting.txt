@@ -1,0 +1,1 @@
+{"Status":"D","CountryId":102,"CreatedBy":"Admin","YearId":32,"Value":0.0,"IsPublished":false,"IndicatorId":615,"CreatedOn":"2023-11-23T12:55:03.583333300","Id":2029243,"ObservationSyncId":684192}
